@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties answer to the petition which accompanied the declaration of the House of Commons: presented to him at Hampton-Court, the first of December. 1641.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74694</idno>
+            <idno type="STC">Wing C2138</idno>
+            <idno type="STC">Thomason E181_6</idno>
+            <idno type="STC">ESTC R1470</idno>
+            <idno type="EEBO-CITATION">99859723</idno>
+            <idno type="PROQUEST">99859723</idno>
+            <idno type="VID">111819</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74694)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111819)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 32:E181[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties answer to the petition which accompanied the declaration of the House of Commons: presented to him at Hampton-Court, the first of December. 1641.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[2], 12, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Barker, Printer to the Kings most Excellent Majestie: And by the Assignes of John Bill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLI. [1641]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The last leaf is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament. --  House of Commons. --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111819:1"/>
+            <pb facs="tcp:111819:1" rendition="simple:additions"/>
+            <p>HIS MAJESTIES ANSWER To the PETITION which ac<g ref="char:EOLhyphen"/>companied the DECLARATION of the Houſe of COMMONS: Preſented to Him at <hi>Hampton-Court,</hi> the firſt of December. 1641.</p>
+            <p>LONDON: Printed by ROBERT BARKER, Printer to the Kings moſt Excellent Majeſtie: And by the Aſſignes of JOHN BILL. MDCXLI.</p>
+         </div>
+         <div type="royal_blazon">
+            <pb facs="tcp:111819:2"/>
+            <p>
+               <figure/>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:111819:2"/>
+            <head>HIS MAJESTIES ANSVVER To the PETITION which ac<g ref="char:EOLhyphen"/>companied the DECLARATION <hi>Preſented to Him at</hi> Hampton-Court, 1<hi rend="sup">o</hi> Decemb. 1641.</head>
+            <p>
+               <seg rend="decorInit">W</seg>EE having received from you, ſoon after Our return out of <hi>Scotland,</hi> a long Peti<g ref="char:EOLhyphen"/>tion, conſiſting of many deſires, of great moment, together with a De<g ref="char:EOLhyphen"/>claration of a very unuſuall nature
+<pb n="2" facs="tcp:111819:3"/>annexed thereunto, VVe had ta<g ref="char:EOLhyphen"/>ken ſome time to conſider of it, as befitted Us in a matter of that con<g ref="char:EOLhyphen"/>ſequence, being confident, that your own reaſon and regard to Us, as well as Our expreſſe intimation by Our Comptroller to that pur<g ref="char:EOLhyphen"/>poſe, would have reſtrained you from the publiſhing of it, till ſuch time, as you ſhould have received Our Anſwer to it: But, much againſt Our expectation, finding the contrary, that the ſaid Decla<g ref="char:EOLhyphen"/>ration is already abroad in Print, by directions from your Houſe, as appears by the printed Copy; VVe muſt let you know that VVe are very ſenſible of the diſre<g ref="char:EOLhyphen"/>ſpect. Notwithſtanding, it is Our Intention, that no failing on your
+<pb n="3" facs="tcp:111819:3"/>part, ſhall make Us fail in Ours, of giving all due ſatisfaction to the de<g ref="char:EOLhyphen"/>ſires of Our people, in a Parlia<g ref="char:EOLhyphen"/>mentary way; And therefore VVe ſend you this Anſwer to your Petition, reſerving Our ſelf in point of the Declaration, which VVe think unparliamentary, and ſhall take a courſe to do that which VVe ſhall think fit in prudence and honour.</p>
+            <p>To the Petition, VVe ſay; that although there are divers things in the Preamble of it, which VVe are ſo far from admitting, that VVe profeſſe VVe cannot at all under<g ref="char:EOLhyphen"/>ſtand them, as, <hi>Of a wicked and malignant party prevalent in the Government; Of ſome of that party admitted to Our Privie Councell,
+<pb n="4" facs="tcp:111819:4"/>and to other Imployments of truſt, and necreſt to <g ref="char:V">Ʋ</g>s and Our Children; Of Endeavours to ſowe among the Peo<g ref="char:EOLhyphen"/>ple falſe ſcandals and imputations, to blemiſh and diſgrace the Proceed<g ref="char:EOLhyphen"/>ings of the Parliament:</hi> All, or any of which, did VVe know of, VVe ſhould be as ready to reme<g ref="char:EOLhyphen"/>dy and puniſh, as you to complain of. That the Prayers of your Pe<g ref="char:EOLhyphen"/>tition are grounded upon ſuch Pre<g ref="char:EOLhyphen"/>miſſes as VVe muſt in no wiſe ad<g ref="char:EOLhyphen"/>mit; yet notwithſtanding VVe are pleaſed to give this Anſwer to you.</p>
+            <p>To the firſt concerning Religi<g ref="char:EOLhyphen"/>on, conſiſting of ſeverall branches, VVe ſay, that for the preſerving the Peace and Safety of the Kingdom from the deſignes of the Popiſh
+<pb n="5" facs="tcp:111819:4"/>partie, VVe have, and will ſtill concur with all the juſt deſires of Our people in a Parliamentarie way; That for the depriving of the Biſhops of their Votes in Par<g ref="char:EOLhyphen"/>liament, VVe would have you conſider, that their right is ground<g ref="char:EOLhyphen"/>ed upon the fundamentall Law of the Kingdom, and conſtitution of Parliament; This VVe would have you conſider, but ſince you deſire Our concurrence herein in a Parliamentary way, VVe will give no further anſwer at this time.</p>
+            <p>As for the abridging of the inor<g ref="char:EOLhyphen"/>dinate power of the Clergy, VVe conceive that the taking away of the high Commiſsion Court hath well moderated that, but if there continue any Uſurpations, or
+<pb n="6" facs="tcp:111819:5"/>Exceſſes in their Juriſdictions, VVe therein neither have nor will protect them.</p>
+            <p>Unto that Clauſe which con<g ref="char:EOLhyphen"/>cerneth Corruptions (as you ſtile them) in Religion, in Church-go<g ref="char:EOLhyphen"/>vernment, and in Diſcipline, and the removing of ſuch unneceſſary Ceremonies as weak Conſciences might cheque at. That for any ille<g ref="char:EOLhyphen"/>gall Innovations which may have crept in, VVe ſhall willingly con<g ref="char:EOLhyphen"/>cur in the removall of them. That if Our Parliament ſhall adviſe Us to call a Nationall Synod, which may duly examine ſuch Ceremo<g ref="char:EOLhyphen"/>nies as give juſt cauſe of offence to any. VVe ſhall take it into conſi<g ref="char:EOLhyphen"/>deration, and apply Our Self to give due ſatisfaction therein; But
+<pb n="7" facs="tcp:111819:5"/>VVe are very ſorry to hear in ſuch generall terms, Corruption in Religion objected, ſince VVe are perſwaded in Our conſcience, that no Church can be found upon the earth that profeſſeth the true Re<g ref="char:EOLhyphen"/>ligion with more purity of Do<g ref="char:EOLhyphen"/>ctrine then the Church of <hi>England</hi> doth, nor where the Government and Diſcipline are joyntly more beautified, and free from ſuperſtiti<g ref="char:EOLhyphen"/>on, then as they are here eſtabliſh<g ref="char:EOLhyphen"/>ed by Law, which (by the grace of God) VVe will with Con<g ref="char:EOLhyphen"/>ſtancy maintain (while VVe live) in their Puritie and Glory, not on<g ref="char:EOLhyphen"/>ly againſt all invaſions of Popery, but alſo from the irreverence of thoſe many Schiſmaticks and Se<g ref="char:EOLhyphen"/>paratiſts, wherewith of late this
+<pb n="8" facs="tcp:111819:6"/>Kingdom and this City abounds, to the great diſhonour and hazard both of Church and State; for the ſuppreſsion of whom VVe re<g ref="char:EOLhyphen"/>quire your timely and active aſsiſt<g ref="char:EOLhyphen"/>ance.</p>
+            <p>To the ſecond prayer of the Pe<g ref="char:EOLhyphen"/>tition, concerning the removall and choice of Councellours, VVe know not any of Our Councell to whom the Character ſet forth in the Petition can belong. That by thoſe whom VVe had expoſed to triall, VVe have already given you ſufficient teſtimony, that there is no man ſo neer unto Us in place or affection, whom VVe will not leave to the Juſtice of the Law, if you ſhall bring a particular charge and ſufficient proofs againſt him;
+<pb n="9" facs="tcp:111819:6"/>and of this VVe do again aſſure you, but in the mean time VVe wiſh you to forbear ſuch generall aſperſions as may reflect upon all Our Councell, ſince you name none in particular.</p>
+            <p>That for the choice of Our Councellours and Miniſters of State, it were to debar Us that na<g ref="char:EOLhyphen"/>turall libertie all Free-men have, and it is the undoubted right of the Crown of <hi>England,</hi> to call ſuch perſons to Our Secret Councels, to publike imployment, and Our particular ſervice, as VVe ſhall think fit, ſo VVe are, and ever ſhall be very carefull to make election of ſuch perſons in thoſe places of truſt, as ſhall have given good teſtimo<g ref="char:EOLhyphen"/>nies of their abilities and integrity,
+<pb n="10" facs="tcp:111819:7"/>and againſt whom there can be no juſt cauſe of exception whereon reaſonably to ground a diffidence; and to choices of this nature VVe aſſure you that the mediation of the neereſt unto Us hath alwayes concurred.</p>
+            <p>To the third Prayer of your Petition, concerning <hi>Ireland,</hi> VVe underſtand your deſire of not alie<g ref="char:EOLhyphen"/>nating the forfeited Lands thereof, to proceed from your much care and love; And like wiſe that it may be a Reſolution very fit for Us to take, but whether it be ſeaſonable to declare Reſolutions of that na<g ref="char:EOLhyphen"/>ture before the events of a war be ſeen, that VVe much doubt of. Howſoever, VVe cannot but thank you for this care, and your
+<pb n="11" facs="tcp:111819:7"/>cheerfull ingagement for the ſup<g ref="char:EOLhyphen"/>preſsion of that Rebellion; upon the ſpeedy effecting whereof, the glory of God in the Proteſtant Pro<g ref="char:EOLhyphen"/>feſsion, the ſafety of the Brittiſh there, Our honour, and that of the Nation ſo much depends; all the Intereſts of this Kingdom being ſo involved in that buſineſſe, VVe cannot but quicken your affections therein, and ſhall deſire you to frame your Councels, and to give ſuch expedition to the work, as the nature thereof, and the preſſures in point of time requires, and where<g ref="char:EOLhyphen"/>of you are put in minde by the daily inſolence and increaſe of thoſe Rebels.</p>
+            <p>For Concluſion, your promiſe to apply your ſelves to ſuch cour<g ref="char:EOLhyphen"/>ſes
+<pb n="12" facs="tcp:111819:8"/>as may ſupport Our Royall Eſtate with Honour and Plenty at home, and with Power and Repu<g ref="char:EOLhyphen"/>tation abroad, is that which VVe have ever promiſed Our Self, both from your Loyalties and Affecti<g ref="char:EOLhyphen"/>ons, and alſo for what VVe have already done, and ſhall daily go adding unto, for the comfort and happineſſe of Our people.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:111819:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
